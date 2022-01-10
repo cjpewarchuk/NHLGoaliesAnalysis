@@ -5,6 +5,6 @@ Contents:
 1. Goalie Data Collection
 2. Goalies From 1950-2020 Narrowing the scope
 3. Exploratory Data Analysis (single variable Analysis)
-
+4. Exploratory Data Analysis (comparing multiple variables)
 
 And associated .csv files as saved in notebooks.
