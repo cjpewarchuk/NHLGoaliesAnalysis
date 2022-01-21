@@ -6,5 +6,6 @@ Contents:
 2. Goalies From 1950-2020 Narrowing the scope
 3. Exploratory Data Analysis (single variable Analysis)
 4. Exploratory Data Analysis (comparing multiple variables)
+5. Hall of Fame Predictor Model
 
 And associated .csv files as saved in notebooks.
